@@ -23,4 +23,5 @@ console.log(`${urunler[3]} - ${fiyatlar[3]} - ${renkler[3]}`); // iphone 15 - 50
 
 let katmanli = ["iphone", 20000, ["siyah", "beyaz", "kirmizi"]];
 
-console.log(katmanli[2][2]); // 
+console.log(katmanli[2][2]); // kirmizi // katmanli array'i bu sekilde kullanabiliriz
+
